@@ -8,3 +8,8 @@ Establishing an organization is difficult, cumbersome and expensive. If you wish
 
 ### How this works ###
 We create a specification to describe organizations structure and bylaws, and tools to manage those organizations as private blockchains in a distributed, decentralized manner.
+
+
+
+
+Further information can be found at (http://cryptographic-democracy.com)

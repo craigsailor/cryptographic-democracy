@@ -12,4 +12,4 @@ We create a specification to describe organizations structure and bylaws, and to
 
 
 
-Further information can be found at (http://cryptographic-democracy.com)
+Further information can be found at <http://cryptographic-democracy.com>
